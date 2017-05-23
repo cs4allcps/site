@@ -31,14 +31,7 @@ is found at
 ```
 content/about/_index.md
 ```
-and the homepage
-```
-http://www.cs4all.io
-```
-is found at
-```
-content/_index.md
-```
+and the homepage `http://www.cs4all.io` is found at `content/_index.md`.
 
 ### Adding New Pages
 You can generate a new Markdown document that includes the proper [header](https://gohugo.io/content/front-matter/) automatically by typing
@@ -82,7 +75,9 @@ or you can insert it with autoplay turned on by instead inserting
 ```
 {{< youtube id="auDh3S4jiDc" autoplay="true" >}}
 ```
-There is an identical shortcode for **Vimeo** videos. That shortcode, as well as other shortcodes for embedding content from other popular services like **Instagram** and **GitHub** can be found [here](https://gohugo.io/extras/shortcodes/).
+There is an identical shortcode for **Vimeo** videos. That shortcode, as well as shortcodes for embedding content from other popular services like **Instagram** and **GitHub** can be found [here](https://gohugo.io/extras/shortcodes/).
+
+To embed a **Google Form**, click the "Send" button at the top of the form editor page, and then next to "Send via," click on the embed icon `< >`, and copy the HTML that appears. Then, all you have to do is paste the HTML as its own line into the Markdown document for your chosen page like was done above for YouTube videos.
 
 ### Shortcodes
 In addition to using Hugo's own shortcodes, you can [create your own shortcodes](https://gohugo.io/extras/shortcodes/#creating-your-own-shortcodes). This site, for example, has two custom shortcodes to format the bios on the [staff page](http://www.cs4all.io/about/staff). A full, paragraph length bio is produced by
@@ -121,7 +116,7 @@ Some relevant pages from the Hugo guide include:
 
 	* [Analytics](https://gohugo.io/extras/analytics/)
 	* [Data-driven content](https://gohugo.io/extras/datadrivencontent/)
-	* [Pagination](https://gohugo.io/extras/pagination/) -- Our blog and news pages may be short now, but this is useful to keep in mind shold that change.
+	* [Pagination](https://gohugo.io/extras/pagination/) -- Our blog and news pages may be short now, but this will be useful should that change.
 	* [Table of Contents](https://gohugo.io/extras/toc/)
 	* [Multilingual mode](https://gohugo.io/content/multilingual/)
 
