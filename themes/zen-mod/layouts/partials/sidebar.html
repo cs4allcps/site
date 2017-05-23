@@ -1,0 +1,11 @@
+{{ $currentSection := .Section }}
+{{ $currentID := .UniqueID }}
+<aside class="layout-3col__right-sidebar" role="complementary">
+{{ range .Data.Pages }}
+<article class="{{ with .Section }}section-{{ . | urlize }}{{ end }} list-view">
+<li>
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</li>
+</article>
+{{ end }}
+</aside>

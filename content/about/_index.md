@@ -5,8 +5,7 @@ title = "About"
 url = "/about"
 type = "index"
 image = "cs4all-description.jpg"
-[[menu.main]]
-	weight = 20
+menu = "main"
 +++
 
 <img border="0" src="/cs4all-description.jpg" style="width:100%" />

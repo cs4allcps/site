@@ -1,7 +1,7 @@
 baseURL = "http://cs4all.io/"
 languageCode = "en-us"
 title = "CS4All @ CPS"
-theme = "Zen"
+theme = "zen-mod"
 newContentEditor = "Sublime Text"
 [params]
 	search = true

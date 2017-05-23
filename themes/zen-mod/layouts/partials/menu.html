@@ -1,0 +1,11 @@
+{{ $currentSection := .Section }}
+{{ $currentID := .UniqueID }}
+<div class="layout-swap__top layout-3col__full">
+<nav class="main-menu" role="navigation">
+<h2 class="visually-hidden">Main menu</h2>
+<ul class="navbar clearfix">
+<li><a class="{{ if .IsHome }}active{{ end }}" href="/">Home</a></li>
+{{ partial "menu_include.html" . }}
+</ul>
+</nav>
+</div>

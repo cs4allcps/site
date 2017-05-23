@@ -1,0 +1,25 @@
+{{ $page := .page }}
+{{ $site := .site }}
+<ul>
+{{ range .menu }}
+  {{ $is := $page.IsMenuCurrent "main" . }}
+  {{ $has := $page.HasMenuCurrent "main" . }}
+  {{ if .HasChildren }} 
+    <li>
+      <a href="{{ .URL }}"{{ if $has }} class="parent-active"{{ end }}>
+        {{ .Name }}
+      </a>
+        <!-- If the menu item has children, include this partial template again (recursively) -->
+        {{ if or $is $has }}
+          {{ partial "menu_recursive.html" (dict "menu" .Children "page" $page "site" $site) }}
+        {{ end }}
+    </li>
+  {{ else }}
+    <li>
+      <a href="{{ .URL }}">
+        {{ .Name }}
+      </a>
+    </li>
+  {{ end }}
+{{ end }}
+</ul>
