@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educators on CS4All @ CPS</title>
+    <link>http://cs4all.io/educators/</link>
+    <description>Recent content in Educators on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/educators/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submit a Photo</title>
+      <link>http://cs4all.io/educators/submit-a-photo/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/educators/submit-a-photo/</guid>
+      <description>Submit a photo showing off your computer science class and/or your computer science students and some of the incredible projects that they work on. We will showcase some of these photos throughout our website and other social media outlets.
+Follow this link to upload you photo!</description>
+    </item>
+    
+    <item>
+      <title>Teacher Advisory Council</title>
+      <link>http://cs4all.io/educators/teacher-advisory-council/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/educators/teacher-advisory-council/</guid>
+      <description>CS4All encourages educators to network and share their knowledge and expertise when it comes to the curricula and different teaching materials, tools, and resources that they find useful. We have assembled a Teacher Advisory Council of highly experienced and active CS4All teachers who are available to act as resources not only to the the CS4All team members but also to other teachers and administrators in the district. This council will be available to offer advice on curriculum development, framework development, new student outreach and engagement plans, and much more.</description>
+    </item>
+    
+    <item>
+      <title>Tools and Resources</title>
+      <link>http://cs4all.io/educators/tools-and-student-resources/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/educators/tools-and-student-resources/</guid>
+      <description> Teacher/Classroom Resources  Bootstrap - Computer science and Algebra curriculum and software Project Guts - Computer Science and Science resources CS Principles Resources Exploring Computer Science Teaching Resources Bootstrap Online Community Code.org Online Community CS10K Online Community CS4All Newsletter Archive Exploring Computer Science Curriculum Resources Computer Science Principles Curriculum Resources Computer Science Teachers Association Community National Center for Women &amp;amp; Information Technology Resources CS Bits and Bytes - NSF Newsletter highlighting innovative CS research Computer Science Education Week Google Computer Science for High School - Community and resources Google for Education - Classroom resources, student programs, and scholarships Amazon Inspire - Free service for the search, discovery, and sharing of digital educational resources Finch Robots from Chicago Public Library Google Expeditions  Student Competitions &amp;amp; Clubs  FIRST Robotics - Rookie team resources Chicago Maker Challenge Raspberry Pi Challenge National STEM Video Game Challenge Google CS First Club CodeDay Chicago - Student hackathon CPS &amp;amp; Googlepalooza Hackathon - Student hackathon Scratch Day - Typically held at West Ridge Elementary Google Code-In - Students work with an open source software organization on tasks to win prizes  Student Awards  National Center for Women &amp;amp; Information Technology Aspirations in Computing Award - High school girls can apply Illinois Technology Foundation Fifty for the Future ACM/CSTA Cutler-Bell Prize in High School Computing  </description>
+    </item>
+    
+  </channel>
+</rss>

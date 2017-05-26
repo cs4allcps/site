@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News &amp; Updates on CS4All @ CPS</title>
+    <link>http://cs4all.io/news-updates/</link>
+    <description>Recent content in News &amp; Updates on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/news-updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feb. 24, 2016 - CPS Makes Computer Science a Graduation Requirement!</title>
+      <link>http://cs4all.io/news-updates/2016-02-24/</link>
+      <pubDate>Wed, 24 Feb 2016 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/news-updates/2016-02-24/</guid>
+      <description>On February 24, 2016 the Chicago Board of Education unanimously approved the addition of computer science as a graduation requirement for all Chicago Public Schools (CPS) students beginning with next year&amp;rsquo;s freshmen, the class of 2020. CPS has become a national leader in computer science education since Mayor Rahm Emanuel launched the Computer Science for All (CS4All) initiative for grades K-12 in December 2013.
+After CPS launched the CS4All initiative in 2013, several large urban districts have replicated a curriculum and model similar to Chicago&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Jan. 30, 2016 - Obama Announces Support for Computer Science for All!</title>
+      <link>http://cs4all.io/news-updates/2016-01-30/</link>
+      <pubDate>Sat, 30 Jan 2016 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/news-updates/2016-01-30/</guid>
+      <description>See President Obama&amp;rsquo;s proposal for four billion in funding nationwide, and $100 million for some school districts, to provide Computer Science for All.</description>
+    </item>
+    
+    <item>
+      <title>Feb. 12, 2015 - Catalyst Chicago Covers the Then &amp; Now of CS4All</title>
+      <link>http://cs4all.io/news-updates/2015-02-12/</link>
+      <pubDate>Thu, 12 Feb 2015 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/news-updates/2015-02-12/</guid>
+      <description>Read up on the history of CS4All and learn how schools like Lindblom are taking CS and using it as a catalyst for their students. Learn more about where we see CS4All&amp;rsquo;s trajectory going and what others have to say about our initiative.</description>
+    </item>
+    
+    <item>
+      <title>Nov. 24, 2014 - CS4All featured in the Washington Post!</title>
+      <link>http://cs4all.io/news-updates/2014-11-24/</link>
+      <pubDate>Mon, 24 Nov 2014 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/news-updates/2014-11-24/</guid>
+      <description>Read a feature on CS4All and learn more about our initiative and our plans to make computer science available to all students in the district as well as a core requirement! Great highlights of obstacles and successes, as well as a few school features, provide insight as to how our initiative has been progressing.</description>
+    </item>
+    
+    <item>
+      <title>Sept. 11, 2014 - Kindergartners Learning to Code!</title>
+      <link>http://cs4all.io/news-updates/2014-09-11/</link>
+      <pubDate>Thu, 11 Sep 2014 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/news-updates/2014-09-11/</guid>
+      <description>Read our feature in CBS Chicago which talks about Ariel Elementary school using CS with their Kindergarten students. Learn about the initial impacts of the CS4All initiative!</description>
+    </item>
+    
+  </channel>
+</rss>

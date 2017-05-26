@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students on CS4All @ CPS</title>
+    <link>http://cs4all.io/students/</link>
+    <description>Recent content in Students on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CS Opportunities Outside of School</title>
+      <link>http://cs4all.io/students/opportunities/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/students/opportunities/</guid>
+      <description>Stay up to date on a month-to-month events calendar by visiting STEM Kids.
+Free Summer  Girls Who Code Summer Immersion Program (10th-11th) Coderspace Summer Program (9th-12th) Project Syncere STEM Summer Camp (6th-8th &amp;amp; 9th-12th) Museum of Science and Industry Fab Lab Summer Camp (5th-7th &amp;amp; 7th-9th) Adler Technology Summer Camp (4th-7th) BitSpace Summer Camp (6-18) Code Play Learn Summer Camps (K-7th)  After School  YouMedia (6th-12th) Blue1647 (scholarships available) Coderspace Saturday Sessions (9th-12th) Girls Who Code Club (9th-12th) Chick Tech (9th-12th) Microsoft DigiGirlz (7th-12th) Black Girls Code Chicago Chapter Events (7-17, *prices can vary) Coderdojo Chicago (7-17, suggested donation) Maker Lab Harold Washington Library (14+, 10-13 w/ adult) Adler Teen Opportunities Fermilab Students (K-12th, *prices can vary) Chicago Architecture Foundation Teens (age varies, *prices can vary) Chicago Southside Mini MakerFaire Chicago Northside Mini MakerFaire  Online  Code.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Your Digital Portfolio</title>
+      <link>http://cs4all.io/students/digital-portfolio/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/students/digital-portfolio/</guid>
+      <description>As you begin to study and pursue computing you are sure to begin to create and work on many projects. It is important that you are able to keep track of and log the projects that you work on to show off all of your hard work to potential employers, colleges, and even family and friends. These tools can be used to help you track and organize all of your work.</description>
+    </item>
+    
+    <item>
+      <title>Student Advisory Board</title>
+      <link>http://cs4all.io/students/student-advisory-board/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/students/student-advisory-board/</guid>
+      <description>The Student Advisory Board was created by CS4All to provide a student perspective on the CS4All curriculum and the student’s learning environment in order to help the CS4All team work on improving both for future computer science students. The board consists of a diverse group of approximately 10 - 15 high school students who represent various areas of the city (south, west, north) and school types (including charter and option schools) who are selected through an open application process each year.</description>
+    </item>
+    
+    <item>
+      <title>College &amp; Career Planning</title>
+      <link>http://cs4all.io/students/college-career-planning/</link>
+      <pubDate>Fri, 21 Apr 2017 15:44:14 -0500</pubDate>
+      
+      <guid>http://cs4all.io/students/college-career-planning/</guid>
+      <description>If you&amp;rsquo;re interested in pursing a major in computing in college, or looking for help on making your decision, these resources can help provide you with information:
+ Reasons to major in computing Preparing for a computing major Computing degrees and careers  If you&amp;rsquo;re looking to pursue computing in college one of the most important tools you can have is access to a computer. Several colleges provide students with laptops upon entering their freshman year and even more offer discounts to purchase a laptop.</description>
+    </item>
+    
+  </channel>
+</rss>

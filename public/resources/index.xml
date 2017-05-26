@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on CS4All @ CPS</title>
+    <link>http://cs4all.io/resources/</link>
+    <description>Recent content in Resources on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CS Curriculum Solutions</title>
+      <link>http://cs4all.io/resources/cs-curriculum-solutions/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/cs-curriculum-solutions/</guid>
+      <description>
+
+ </description>
+    </item>
+    
+    <item>
+      <title>CS Teacher Resource Repository</title>
+      <link>http://cs4all.io/resources/cs-teacher-resource-repository/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/cs-teacher-resource-repository/</guid>
+      <description>CPS teachers can access our resource repository, a Google Drive folder where our teachers have added resources they have created, especially lesson plans for CS curricula.
+Access it here!
+Due to CPS&amp;rsquo; current sharing policy, the folder is only accessible within the CPS Google Apps domain.</description>
+    </item>
+    
+    <item>
+      <title>CS4All Calendar</title>
+      <link>http://cs4all.io/resources/cs4all-calendar/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/cs4all-calendar/</guid>
+      <description>Computer Science for All Events Calendar </description>
+    </item>
+    
+    <item>
+      <title>CS4All Grants</title>
+      <link>http://cs4all.io/resources/cs4all-grants/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/cs4all-grants/</guid>
+      <description>Computer Science for All has received several grants since the conception of the initiative. Each of these grants has played an extremely important role in propelling the CS4All initiative forward in Chicago.
+CME Group has provided a grant to CS4All in order to support our efforts of significantly improving STEM educational offerings within CPS. Our mutual hope is that by giving students a quality introduction to computing in their younger years, we will better prepare them for 21st-century global society participation.</description>
+    </item>
+    
+    <item>
+      <title>College &amp; Career Links</title>
+      <link>http://cs4all.io/resources/college-career-links/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/college-career-links/</guid>
+      <description>General Information  U.S. Dept. of Labor – Employment and Training Administration’s career tools and scholarships Chicago Public Schools – Office of Pathways to College and Career (Post-Secondary site) College Counseling Culture – College counseling blog College Xpress Network – College planning, searches, scholarships and college admissions requirements College Illinois – Official website for the Illinois Student Assistance Commission (ISAC) The Center for Student Opportunity – Promoting higher education for first generation and other underserved college-bound students Info Careers – Career schools, top/new careers, labor market info.</description>
+    </item>
+    
+    <item>
+      <title>Hour of Code</title>
+      <link>http://cs4all.io/resources/hour-of-code/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/resources/hour-of-code/</guid>
+      <description>Code.org launched the Hour of Code in 2013 and since then students have written 11,151,730,618 lines of code. We believe heavily in using the Hour of Code to inspire students to try coding, that&amp;rsquo;s why each year during CSed week we work with and invite schools to have their students participate in the Hour of Code.
+Both CSed Week and Code.org provide all of the resources that schools K-12 need to get their students ready to do an Hour of Code, regardless of whether or not they have access to a computer or if they&amp;rsquo;ve ever programmed before.</description>
+    </item>
+    
+  </channel>
+</rss>

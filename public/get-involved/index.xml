@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Involved on CS4All @ CPS</title>
+    <link>http://cs4all.io/get-involved/</link>
+    <description>Recent content in Get Involved on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/get-involved/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Industry Leaders</title>
+      <link>http://cs4all.io/get-involved/business/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/get-involved/business/</guid>
+      <description>CS4All provides businesses, industry professionals, and other industry leaders with a way to make a huge impact on teachers and students throughout Chicago by enhancing the state of computer science education. If you or your business would like to get involved with the CS4All initiative in CPS there are several ways for you to do so. Some ways that you could get involve include:
+ Hosting a professional development session at your office Hosting job shadows for teachers Hosting job shadows for students Offer internships to students Make a hardware donation, help provide technology to a school</description>
+    </item>
+    
+    <item>
+      <title>Parent &amp; Community</title>
+      <link>http://cs4all.io/get-involved/parent/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/get-involved/parent/</guid>
+      <description>If you would like to learn more about the work that CS4All is doing inside of CPS and how you can involved through more hands on volunteering and participation there are several opportunities and organizations that have created opportunities for you to do so. Additionally CS4All is an initiative that thrives off of parent and community involvement, through your involvement in student computer science education students will be even more encouraged to pursue his or her path in computing.</description>
+    </item>
+    
+  </channel>
+</rss>

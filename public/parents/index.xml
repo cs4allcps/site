@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parents on CS4All @ CPS</title>
+    <link>http://cs4all.io/parents/</link>
+    <description>Recent content in Parents on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/parents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Future Career Opportunity</title>
+      <link>http://cs4all.io/parents/career-opportunity/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/parents/career-opportunity/</guid>
+      <description>Every industry is looking for computer scientists, and with an average starting salary of $58,000, according to Forbes, and have more jobs available than students to fill the openings, every computer science student is highly lucrative. Computer science provides students with the opportunity to pursue their technical passions while also having enough freedom to express their creativity through their platform of expression. Computer science is not limiting, by being able to adapt to all mediums and being applicable to all problem areas, students can apply the lessons that they have learned through computer science to anything that they wish.</description>
+    </item>
+    
+    <item>
+      <title>Get Involved</title>
+      <link>http://cs4all.io/parents/get-involved/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/parents/get-involved/</guid>
+      <description>If you would like to learn more about the work that CS4All is doing inside of CPS and how you can involved through more hands on volunteering and participation there are several opportunities and organizations that have created opportunities for you to do so. Additionally CS4All is an initiative that thrives off of parent and community involvement, through your involvement in student computer science education students will be even more encouraged to pursue his or her path in computing.</description>
+    </item>
+    
+    <item>
+      <title>Graduation Requirement</title>
+      <link>http://cs4all.io/parents/graduation-requirement/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/parents/graduation-requirement/</guid>
+      <description>This past winter, our district instituted the first purely computer science graduation requirement in the nation. Starting with the graduating class of 2020, all high school students must take and pass at least one full-year computer science course.
+The core high school courses consists of two offerings:
+ Exploring Computer Science (ECS): This course was founded on a K-12/university partnership out of Los Angeles and aims to change the stereotypes around computer science, whether they be belief systems, political, or technical.</description>
+    </item>
+    
+    <item>
+      <title>Where Can My Child Take CS?</title>
+      <link>http://cs4all.io/parents/where-can-my-child-take-cs/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/parents/where-can-my-child-take-cs/</guid>
+      <description>To date, CS4All has CS programs in 89 elementary schools and 74 high schools. Use the map below to see where these schools are and to connect to the school&#39;s site to learn more about their individual computer science programs. If you do not see your child&#39;s school on the map but you would like them to learn computer science at school please fill out the form below the map to express your interest in bringing computer science to your school.</description>
+    </item>
+    
+    <item>
+      <title>Why CS? Why Now?</title>
+      <link>http://cs4all.io/parents/diversity-in-cs/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/parents/diversity-in-cs/</guid>
+      <description>Our goal with CS4All is to ensure that students across the district are afforded the opportunity to receive world-class CS instruction, regardless of the type, size, or socioeconomic status of a school’s students. This policy is designed to encourage and motivate Chicago Public School students to pursue post-secondary preparation in the various fields of computer sciences. This policy is further intended to provide direction to schools for the inclusion of appropriate computer science instruction within the curriculum in all schools and grade levels.</description>
+    </item>
+    
+  </channel>
+</rss>

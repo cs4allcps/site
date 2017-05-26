@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on CS4All @ CPS</title>
+    <link>http://cs4all.io/partners/</link>
+    <description>Recent content in Partners on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Become a Partner</title>
+      <link>http://cs4all.io/partners/become-a-partner/</link>
+      <pubDate>Fri, 05 May 2017 15:12:56 -0500</pubDate>
+      
+      <guid>http://cs4all.io/partners/become-a-partner/</guid>
+      <description>Join Us! There are three different ways to become a partner to CS4All and each have a variety of ways that you can choose to support the initiative. The expectations for each method of partnership are explained below and vary for each type of support. Please fill out the form at the bottom of the page to express your interest in becoming a partner.
+Support CS4All Teachers! The teachers of CS4All are the building blocks of the initiative, they are the reason that as a school district we are able to push computer science education forward.</description>
+    </item>
+    
+  </channel>
+</rss>

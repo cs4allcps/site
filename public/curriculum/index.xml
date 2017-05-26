@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculums on CS4All @ CPS</title>
+    <link>http://cs4all.io/curriculum/</link>
+    <description>Recent content in Curriculums on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 16:02:33 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/curriculum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Curriculum</title>
+      <link>http://cs4all.io/curriculum/apple-curriculum/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/curriculum/apple-curriculum/</guid>
+      <description>If your school has recent Apple hardware available, we endorse the free K-12 teaching and learning resources from Apple. These resources, which are part of Apple’s Everyone Can Code program, are aligned with core computer science themes, and are mapped to the relevant CSTA and ISTE Computer Science standards. Below is a description of the range of resources available that take students all the way from no coding experience to building their first apps.</description>
+    </item>
+    
+    <item>
+      <title>CS4All Curriculum Guide</title>
+      <link>http://cs4all.io/curriculum/cs4all-curriculum-guide/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/curriculum/cs4all-curriculum-guide/</guid>
+      <description>Our curriculum guide charts the alignment of our endorsed K-12 curricula to thematic strands:
+ Computational Thinking Teamwork, Play, Discovery Creative Expression and Personal Safety Thinking Algorithmically Real Life Algorithms Working with Computers Innovative Design Computer Programming IT Soft Skills Being a Computer Scientist CS Knowledge and Communication          A more detailed curriculum guide is available to our teachers. This guide contains more information about how specific CS lessons align to the thematic strands listed above, as well as the CSTA and ISTE standards for CS education.</description>
+    </item>
+    
+  </channel>
+</rss>

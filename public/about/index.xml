@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on CS4All @ CPS</title>
+    <link>http://cs4all.io/about/</link>
+    <description>Recent content in About on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 2017 14:56:20 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CS4All Staff</title>
+      <link>http://cs4all.io/about/staff/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/about/staff/</guid>
+      <description>Brenda Darden Wilkerson is a technology education evangelist and the Director of Computer Science &amp;amp; IT Education at Chicago Public Schools. As the founder of the original Computer Science for All initiative in 2013, her work includes building CS into CPS’ general course of study. Brenda is a graduate of Northwestern University where she studied computer science.    Curriculum Team Our new curriculum team will guide the selection and development of computer science curriculum across the district and across K-12.</description>
+    </item>
+    
+  </channel>
+</rss>

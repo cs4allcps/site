@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on CS4All @ CPS</title>
+    <link>http://cs4all.io/programs/</link>
+    <description>Recent content in Programs on CS4All @ CPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 15:24:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://cs4all.io/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Become an Internship Supervisor!</title>
+      <link>http://cs4all.io/programs/internship-supervisor/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/programs/internship-supervisor/</guid>
+      <description>Becoming a Champion is easy when you have a great partner!
+Chicago Public Schools offers a six-week summer internship program to high school juniors and seniors that are pursuing a career pathway in Technology. All internships are skills-based, paid and include workplace experiences that support skills development and professional career readiness. The internship provides students an expanded network of professionals, new and improved skill sets and the confidence to become practicing young tech professionals.</description>
+    </item>
+    
+    <item>
+      <title>ECS Peer Coaching</title>
+      <link>http://cs4all.io/programs/ecs-peer-coaching/</link>
+      <pubDate>Fri, 21 Apr 2017 16:02:33 -0500</pubDate>
+      
+      <guid>http://cs4all.io/programs/ecs-peer-coaching/</guid>
+      <description>Participants in the ECS peer coaching program are matched with a master ECS teacher to work on the following areas of teaching practice:
+ Establishing an equitable classroom culture (partners, groups, questioning) Productive questioning (connections, engagement, effect, pacing) Keeping students engaged in learning (classroom norms, pacing, transitions, connections) Managing effective collaboration (teacher role, engagement) Providing appropriate feedback, both in class and on assignments (affirmation, alternatives) Managing student presentations (differentiation, equity) Formative assessment (creating, effectiveness) CS content (what is being taught, choices of pedagogy, misconceptions) Time management (deadline creep, activities) Other areas as needed  The coaching process involves a pre-visit conversation, the visit, and then a post-visit conversation.</description>
+    </item>
+    
+  </channel>
+</rss>
