@@ -77,12 +77,12 @@ or you can insert it with autoplay turned on by instead inserting
 ```
 There is an identical shortcode for **Vimeo** videos. That shortcode, as well as shortcodes for embedding content from other popular services like **Instagram** and **GitHub** can be found [here](https://gohugo.io/extras/shortcodes/).
 
-To embed a **Google Form**, click the "Send" button at the top of the form editor page, and then next to "Send via," click on the embed icon `< >`, and copy the HTML that appears. Then, all you have to do is paste the HTML as its own line into the Markdown document for your chosen page like was done above for YouTube videos.
+To embed a **Google Form**, click the "Send" button at the top of the form editor page, and then next to "Send via," click on the embed icon `<>`, and copy the HTML that appears. Then, all you have to do is paste the HTML as its own line into the Markdown document for your chosen page like was done above for YouTube videos.
 
 ### Shortcodes
 In addition to using Hugo's own shortcodes, you can [create your own shortcodes](https://gohugo.io/extras/shortcodes/#creating-your-own-shortcodes). This site, for example, has two custom shortcodes to format the bios on the [staff page](http://www.cs4all.io/about/staff). A full, paragraph length bio is produced by
 ```
-{{< big-bio src="/headshot.png" name="John Smith" desc="John Smith is an accomplished..." >}}
+{{< big-bio src="/headshot.png" name="John Smith" desc=" is an accomplished..." >}}
 ```
 A smaller bio with only a name and position is produced by
 ```
