@@ -14,6 +14,8 @@ The content for this site is written in Markdown, which makes it easy to update.
 
 If you need to do something more advanced than what Markdown syntax offers, you can insert lines of raw HTML into the Markdown document (some basic uses of which are described below) or you can use a Hugo [shortcode](https://gohugo.io/extras/shortcodes/). 
 
+*Instructions for pushing updates to the live site are included below.*
+
 ### Editing Existing Pages
 Navigate to the target page's Markdown (`.md`) file in the `content/` folder, and open in a plain text editor. Now, you can edit it like a normal Markdown document and save it when you're done. If you're localhosting, the changes should be updated live, so you can see what you've done. For the most part, the [file path to the content](https://gohugo.io/content/organization/) within the `content` folder is identical to the structure of the page's URL, such that
 ```
@@ -120,8 +122,6 @@ Some relevant pages from the Hugo guide include:
 	* [Table of Contents](https://gohugo.io/extras/toc/)
 	* [Multilingual mode](https://gohugo.io/content/multilingual/)
 
-* A [tutorial](https://gohugo.io/tutorials/github-pages-blog/) for hosting on GitHub Pages.
-
 ## Theme
 The site uses a modified version of the [Zen](https://themes.gohugo.io/hugo-theme-zen/) theme for Hugo, which is itself a port of the Drupal zen base theme. Our version differs primarily in its handling of menus and some of the Zen stock content has been replaced with CS4All stock content. If you're just updating the content of the site, you won't have to deal with the theme at all, but if you you want to edit the site theme, it may be useful to know that the contents of
 ```
@@ -137,6 +137,17 @@ The site uses a modified version of the [Zen](https://themes.gohugo.io/hugo-them
 ```
 depart from the original theme, but the other contents of the `/themes/zen-mod/` folder should be identical to those of the original [Zen repository](https://github.com/frjo/hugo-theme-zen).
 
+## Pushing Changes to Live Site
+Once you're satisfied with the changes you've made on your machine, you should, of course, push to this repository so everyone has the current code, but that won't update the live site, which is actually kept in the seperate repository `cs4allcps.github.io` (which I've added as a subrepository in the /local folder for ease of use).
+
+To push changes to the live site, you want to use Hugo to render the new site from your machine and then push it to `cs4allcps.github.io`. To do so, starting in the `site` directory, run
+```
+hugo
+cd public
+git add .
+git commit -m "Updating site (you can obviously make this message whatever you want)"
+git push
+```
 
 
 
