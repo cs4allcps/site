@@ -97,7 +97,7 @@ A smaller bio with only a name and position is produced by
 The HTML for these shortcodes can be found in `layouts/shortcodes/`. If you make a shortocde for the site, please update this README with details so other people can make use of it later.
 
 ## Hugo
-This site is rendered in [Hugo](https://gohugo.io), a static site generator; the creators of Hugo provide an official [guide](https://gohugo.io/overview/quickstart/) to using the site rendering engine, though I've covered some details that are more relevant to this specific site or that I found particularly irritating to information about below.
+This site is rendered in [Hugo](https://gohugo.io), a static site generator; the creators of Hugo provide an official [guide](https://gohugo.io/overview/quickstart/) to using the site rendering engine, though I've covered some details that are more relevant to this specific site or that I found particularly irritating to locate information about in this README.
 
 Some relevant pages from the Hugo guide include:
 
