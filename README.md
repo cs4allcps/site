@@ -138,7 +138,7 @@ The site uses a modified version of the [Zen](https://themes.gohugo.io/hugo-them
 depart from the original theme, but the other contents of the `/themes/zen-mod/` folder should be identical to those of the original [Zen repository](https://github.com/frjo/hugo-theme-zen).
 
 ## Pushing Changes to Live Site
-Once you're satisfied with the changes you've made on your machine, you should, of course, push to this repository so everyone has the current code, but that won't update the live site, which is actually kept in the seperate repository `cs4allcps.github.io` (which I've added as a subrepository in the /local folder for ease of use).
+Once you're satisfied with the changes you've made on your machine, you should, of course, push to this repository so everyone has the current code, but that won't update the live site, which is actually kept in the seperate repository `cs4allcps.github.io` (which I've added as a subrepository in the `/public` folder for ease of use).
 
 To push changes to the live site, you want to use Hugo to render the new site from your machine and then push it to `cs4allcps.github.io`. To do so, starting in the `site` directory, run
 ```
