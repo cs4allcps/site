@@ -50,6 +50,9 @@ while you are in the `site` directory. You can also just make a new Markdown doc
 
 If you want to add the page in a new section or folder and are unfamiliar with Hugo, you should first consult the [source organization](https://gohugo.io/overview/source-directory/) and [content organization](https://gohugo.io/content/organization/) pages in the Hugo documentation. For your section to show up in the site's main navbar, you need to include `menu = "main"` in the header of the `_index.md` file in the section's directory.
 
+### Unlisted Pages
+If you want to host pages that you can link to but can't be navigated to from the main site, then put the pages directly in the main `site` directory or in a folder that isn't listed in the navbar. (Sections or individual pages will only show up in the navbar if `menu = "main"` is included in the header of that folder's `_index.md` file; you can, then, have whole sections that are unlisted if you'd like.)
+
 ### Embedding Content
 To embed an **image**, put the image in the `static` directory so that you can link to it from anywhere within the site as `/img-file.png`. Then, you can include it in any page by inserting the relevant HTML or the following [shortcode](https://gohugo.io/extras/shortcodes/):
 ```
@@ -148,6 +151,15 @@ git add .
 git commit -m "Updating site (you can obviously make this message whatever you want)"
 git push
 ```
+
+## Setting up Custom cs4all.io Domain
+As of writing, this site is still using the domain `https://cs4allcps.github.io` rather than our custom `cs4all.io` domain. To change that, please refer to [this](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) collection of guides on GitHub. (These changes will actually happen directly in the `cs4allcps.github.io` repository, but the instructions are included here so all the info about making changes to the site is in one place.)
+
+
+
+
+
+
 
 
 
